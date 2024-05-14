@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: 'https://github.com/EmiiEu4n/proyecto-gif-equipoDinamita-creando.git'
+  base: '/proyecto-gif-equipoDinamita-creando/'
 })
